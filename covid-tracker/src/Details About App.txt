@@ -1,0 +1,12 @@
+chart source:
+https://react-chartjs-2.js.org/examples/line-chart/
+
+react ui tools source:
+https://mui.com/
+
+github reference:
+https://github.com/adrianhajdin/project_corona_tracker
+
+
+US covid api reference:
+https://covidtracking.com/data/api
